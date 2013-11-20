@@ -34,3 +34,9 @@ proguard/
 *.ipr
 *~
 *.swp
+
+# Library folder
+library/.classpath
+library/library.iml
+library/build
+library/target
